@@ -16,7 +16,7 @@ Turn your Ghost blog into a flaring fast static website. This Gatsby theme is a 
 
 &nbsp;
 
-## 🎓 Tutorials
+## 🎓 Tutorials--------
 
 Check out the [Tutorials](https://www.jamify.org) for practical guides on using this project.
 
